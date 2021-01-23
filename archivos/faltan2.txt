@@ -1,0 +1,21 @@
+ok de todos los contactar ponerle target="_blank" para que se abra en una ventana nueva
+
+ok votar_producto no guardar en base de datos 
+
+ok en galeria agregar el boton ver 
+
+ok cambiar texto de boton agregar producto dice agregar imagen 
+
+ok mostrar las imagnes en editar producto 
+ 
+ok paginacion en la busqueda falta 
+
+ok en la busqueda por zona que muestre en cuadros
+
+ok agregar link a busqueda normal en busqueda por zona 
+
+escribir productos o servicios en mostrar empresa y en agregar y editar producto 
+
+mostrar empresa otra ventana target="_blank" en 
+
+

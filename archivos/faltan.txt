@@ -1,0 +1,108 @@
+
+ok revisar las actuazaciones en algunos casos hay que redirect()
+
+ok Programar que se guarden los clics, busquedas empresas clicadas
+
+ok validar guardado de todos las objetos
+
+ok revisar que todos los campos tengan max:lenght
+
+ok Solo guardar apellidos no separado
+
+ok cambiar el ok de envio de comprobantes
+
+OK que se pueda eliminar o editar una imagen agregada
+
+
+OK Programar que se guarden los clics, busquedas empresas clicadas
+
+OK validar guardado de todos las objetos
+
+OK cambiar el ok de envio de comprobantes
+
+OK en el home de Administrador colocar un Boton para ir a Buscar
+
+OK revisar las actuazaciones en algunos casos hay que redirect()
+
+ok Falta Boton revisar  que al ver la empresa pueda conectarse a whatsapp directamente
+
+ok el mostrar de metodopago no esta funcionando envia otro id
+
+ok Cambiar los precios de los productos en Welcome
+
+ok en welcome en la parte final dise SIMA hay cambiar o borrar
+
+OK Al mostrar clic que Diga quien le Dio clic a nuestra Empresa.
+
+OK EN EL MENU PRINCIPAL ARREGLAR EL MENU USUARIOS SOLO LITAR CREAR NO IRIA
+
+ok  cuando se verifica el pago habilitar por un mes o el tiempo que pago el cliente al mismo tiempo enviarle un mensaje de Whatsapp.
+
+ok  al hacer clic en la imagen que se muestra en pantalla completa
+
+ok listar ordenes no esta funcionando
+
+ok revisar todas las vistas  permisos
+
+ok conciderar incluir numeros telefonicos en empresa
+
+ok agregar codigo pais al telefonos. solo agregar un campo que escriban los USUARIOS
+
+ok crear boton busqueda avanzada
+
+ok AUMENTAR CAMPO DESTACADO A EMPRESA si destacado que aparezca negrito
+
+ok cambiar xxx.boton_actualizar en todas los CRUD
+
+ok todos los vista.acciones dar permiso a eliminar
+
+
+ok revisar los titulos de las vistas estan mal por que se copio y se pego simplemente
+
+ok titulo de las vistas e icono 
+
+ok valida request de busqueda y priorizar para eevitar jackeo
+
+ok cuando se esta validando un pago que el valor jale de la base de datos Bs. 20
+
+ok que no busque sin contenido que pida si o si un criterio 
+
+ok que por defecto salgan los destacados  en home busqueda 
+
+ok que el cliente pueda ver detalle de como esta su empresa 
+
+ok que muestre telefonos de empresa y persona en mostrar respectivamente
+
+ok cambiar el color de ventana Login
+
+ok en index de telefonos y telofempresa agregar boton contactar
+
+ok que pueda volver a publicar una empresa ya registrada
+
+ok colocar logo a welcome
+
+ok revisar que todas las tablas sean responsive
+
+ok editar el texto de Welcome
+
+ok que pueda enviar un mail para recuperar contraseña de los users 
+ 
+validar una empresa no se puede eliminar si ya esta relacionado con alguna orden 
+
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&   siguiente version  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+hacer contadores hasta maximo caracteres permitidos a los campos que se rellenan 
+
+enviarmensajes a los proveedores cuando alquen busque un producto 
+Oye estan JUAN T. Esta buscando Tomates Puedes escribirle este es su WT que sean de la misma ciudad
+
+Que luego cuando inici sesion por veces 
+pida el pais, ciudad y zona
+
+CUANDO CREA UNA PERSONA Y OCURRE ALGUN ERROR EL OLD DE TELEFONO NO PERDURA
+
+mostrar de Ordenes con  muchos detalle comprobante con fech
